@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\migrations\\20241120083534_nameisaddedtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20241120083534_nameisaddedtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Program.cs",
+              "RelativeToolTip": "AuthAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:37:00.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:36:29.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241120083534_NameIsAddedToDb.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
+              "RelativeToolTip": "AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:35:35.381Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
