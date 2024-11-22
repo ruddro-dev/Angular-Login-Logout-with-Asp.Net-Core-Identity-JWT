@@ -1,18 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\extensions\\appconfigextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\doing\\user registration\\authapi\\authapi\\migrations\\20241120083534_nameisaddedtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\migrations\\20241120083534_nameisaddedtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\identityuserendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\extensions\\identityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|c:\\users\\erytym\\documents\\final projects\\angular login \u0026 logout with asp.net core identity \u0026 jwt\\authapi\\authapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64381CB0-808C-4C5A-9CDC-A899D9900B7F}|AuthAPI\\AuthAPI.csproj|solutionrelative:authapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +38,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -33,45 +53,89 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppConfigExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Extensions\\AppConfigExtensions.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Extensions\\AppConfigExtensions.cs",
+              "RelativeToolTip": "AuthAPI\\Extensions\\AppConfigExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:51:13.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IdentityExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Extensions\\IdentityExtensions.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Extensions\\IdentityExtensions.cs",
+              "RelativeToolTip": "AuthAPI\\Extensions\\IdentityExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:51:06.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\appsettings.json",
+              "RelativeToolTip": "AuthAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T07:47:56.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Models\\AppSettings.cs",
+              "RelativeToolTip": "AuthAPI\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:47:24.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityUserEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\IdentityUserEndpoints.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA7wDoAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:26:35.466Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Program.cs",
               "RelativeDocumentMoniker": "AuthAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Program.cs",
               "RelativeToolTip": "AuthAPI\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAwwCwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:37:00.837Z",
+              "WhenOpened": "2024-11-22T06:52:32.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Models\\AppUser.cs",
-              "RelativeToolTip": "AuthAPI\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\erytym\\Documents\\Final projects\\Angular Login \u0026 Logout with Asp.Net Core Identity \u0026 JWT\\AuthAPI\\AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AuthAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:36:29.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20241120083534_NameIsAddedToDb.cs",
-              "DocumentMoniker": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
-              "RelativeDocumentMoniker": "AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
-              "ToolTip": "C:\\Users\\erytym\\Documents\\Doing\\User Registration\\AuthAPI\\AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
-              "RelativeToolTip": "AuthAPI\\Migrations\\20241120083534_NameIsAddedToDb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T08:35:35.381Z"
+              "WhenOpened": "2024-11-22T06:52:31.003Z"
             }
           ]
         }

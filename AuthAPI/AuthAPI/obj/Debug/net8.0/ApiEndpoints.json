@@ -302,8 +302,30 @@
     ]
   },
   {
-    "ContainingType": "Program\u002B\u003C\u003Ec",
-    "Method": "\u003C\u003CMain\u003E$\u003Eb__0_3",
+    "ContainingType": "AuthAPI.Controllers.IdentityUserEndpoints",
+    "Method": "SignIn",
+    "RelativePath": "api/signin",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginModel",
+        "Type": "AuthAPI.Controllers.LoginModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AuthAPI.Controllers.IdentityUserEndpoints",
+    "Method": "CreateUser",
     "RelativePath": "api/signup",
     "HttpMethod": "POST",
     "IsController": false,
@@ -311,7 +333,7 @@
     "Parameters": [
       {
         "Name": "userRegistrationModel",
-        "Type": "UserRegistrationModel",
+        "Type": "AuthAPI.Controllers.UserRegistrationModel",
         "IsRequired": true
       }
     ],
